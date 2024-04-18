@@ -1,0 +1,16 @@
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\bin\Debug\MusicAPP.exe.config
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\bin\Debug\MusicAPP.exe
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\bin\Debug\MusicAPP.pdb
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\obj\Debug\MusicAPP.csproj.AssemblyReference.cache
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\obj\Debug\MusicAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\obj\Debug\MusicAPP.Form1.resources
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\obj\Debug\MusicAPP.Properties.Resources.resources
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\obj\Debug\MusicAPP.csproj.GenerateResource.cache
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\obj\Debug\MusicAPP.csproj.CoreCompileInputs.cache
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\obj\Debug\MusicAPP.exe
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\obj\Debug\MusicAPP.pdb
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\bin\Debug\Interop.WMPLib.dll
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\obj\Debug\Interop.WMPLib.dll
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Стефан\Desktop\PROEKTI 2023\MusicAPP\MusicAPP\obj\Debug\MusicAPP.csproj.ResolveComReference.cache
